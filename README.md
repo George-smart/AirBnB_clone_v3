@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Evaristus Ekekwe - [Github](https://github.com/George-smart) / [Twitter](https://twitter.com/georgesmart1)  
-Oyinade Oyeniran - [Github]() / [Twitter]()  
+Oyinade Oyeniran - [Github](https://GitHub.com/Oyinade16) / [Twitter]()  
 
 Second part of Airbnb: Joann Vuong
 ## License
